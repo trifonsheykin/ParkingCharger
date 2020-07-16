@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225397165707",
+    "firebase_url": "https://test-qwcfes.firebaseio.com",
+    "project_id": "test-qwcfes",
+    "storage_bucket": "test-qwcfes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225397165707:android:c3394749c9c10e2a36ce8e",
+        "android_client_info": {
+          "package_name": "store.smartlocks.parkingcharger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225397165707-q66cov3lbqil5ehorrmkjp7b9ve5bpai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "store.smartlocks.parkingcharger",
+            "certificate_hash": "9b7153decd0df7bf6bb0b55887051da0d666db34"
+          }
+        },
+        {
+          "client_id": "225397165707-go0g9lk5rqni5v9t11m25jiv2oinjkf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWht1wQIkul7cnC12CnnXvoOp4Drz2tPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225397165707-go0g9lk5rqni5v9t11m25jiv2oinjkf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
